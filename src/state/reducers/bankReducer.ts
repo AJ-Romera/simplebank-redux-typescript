@@ -1,6 +1,8 @@
+import { Action } from '../actions/index';
+
 const initialState = 0;
 
-const reducer = (state: number = initialState, action) => {
+const reducer = (state: number = initialState, action: Action) => {
     switch (action.type) {
         case 'deposit':
             return state + action.payload;
