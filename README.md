@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Redux SimpleBank
+
+This is a really simple imaginary bank web app where you can deposit money, withdraw money or go bankrupt. It´s just for practicing React Redux with TypeScript.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
